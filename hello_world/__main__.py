@@ -1,3 +1,3 @@
-from hello_world._core import main
+from hello_world import main
 
 main()
