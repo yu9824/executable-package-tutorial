@@ -2,8 +2,7 @@
 
 An easy example of executable python module.
 
-
-You can execute like,
+After you install it (e.g. `pip install <path-to-module>`),You can execute like,
 
 ```bash
 % hello-world
