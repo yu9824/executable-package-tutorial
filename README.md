@@ -1,4 +1,4 @@
-# xecutable-package-tutorial
+# executable-package-tutorial
 
 An easy example of executable python package.
 
