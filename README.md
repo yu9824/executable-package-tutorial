@@ -1,8 +1,8 @@
-# module-scripts-tutorial
+# xecutable-package-tutorial
 
-An easy example of executable python module.
+An easy example of executable python package.
 
-After you install it (e.g. `pip install <path-to-module>`), you can execute like;
+After you install it (e.g. `pip install <path-to-package>`), you can execute like;
 
 ```bash
 % hello-world
